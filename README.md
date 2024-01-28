@@ -1,0 +1,1 @@
+Python: only versions >=3.8,<3.12 are supported
